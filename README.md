@@ -1,2 +1,3 @@
 # bri15
-Repositorio de practica commit en github
+Bri Monago Torres 
+PSTI
